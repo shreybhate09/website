@@ -13,6 +13,8 @@
           xmlns="http://www.w3.org/2000/svg"
           xmlns:xlink="http://www.w3.org/1999/xlink"
         >
+          <mdb-btn href = "https://www.facebook.com/profile.php?id=100009757805795"tag="a" size="lg" floating class="btn-fb" icon="facebook-f" fab></mdb-btn>
+          <mdb-btn tag="a" size="lg" floating class="btn-ins" icon="instagram" fab></mdb-btn>
           <g>
             <g>
               <g>
